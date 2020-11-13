@@ -1,0 +1,12 @@
+# Version 1.2 2020-02-11
+
+- Added "Open Holdings" (PBO only) and "Input Location/Call Number" buttons to ribbon
+- Added settings for Primo VE, search tab code, and search scope code
+- Removed PrimoURL setting
+- Updated description and use of BaseURL setting
+- Process ISXN strings to strip non-digit characters
+- Replaced escaped double quotes in Phrase Search with URL-encoded double quotes
+
+# Version 1.2.1 2020-08-31
+
+- Changed default value in the config.xml file for PrimoVE setting from '1' to 'true'
